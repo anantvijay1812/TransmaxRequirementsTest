@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GradesDll", "GradesDll\GradesDll.vcxproj", "{C2800D60-F4BD-42F6-8C31-3ED5F92C5B58}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GradesApp", "GradesApp\GradesApp.vcxproj", "{3CD5A574-37C4-4F44-8246-3F3DB7277BC9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GradesDllTest", "GradesDllTest\GradesDllTest.vcxproj", "{830F40C5-5BC1-4A50-8697-D91A9858C82F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7170496C-84D2-45D3-9187-95C82D919A3A}"
+	ProjectSection(SolutionItems) = preProject
+		GradesDll.vsmdi = GradesDll.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = GradesDll.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2800D60-F4BD-42F6-8C31-3ED5F92C5B58}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2800D60-F4BD-42F6-8C31-3ED5F92C5B58}.Debug|Win32.Build.0 = Debug|Win32
+		{C2800D60-F4BD-42F6-8C31-3ED5F92C5B58}.Release|Win32.ActiveCfg = Release|Win32
+		{C2800D60-F4BD-42F6-8C31-3ED5F92C5B58}.Release|Win32.Build.0 = Release|Win32
+		{3CD5A574-37C4-4F44-8246-3F3DB7277BC9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3CD5A574-37C4-4F44-8246-3F3DB7277BC9}.Debug|Win32.Build.0 = Debug|Win32
+		{3CD5A574-37C4-4F44-8246-3F3DB7277BC9}.Release|Win32.ActiveCfg = Release|Win32
+		{3CD5A574-37C4-4F44-8246-3F3DB7277BC9}.Release|Win32.Build.0 = Release|Win32
+		{830F40C5-5BC1-4A50-8697-D91A9858C82F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{830F40C5-5BC1-4A50-8697-D91A9858C82F}.Debug|Win32.Build.0 = Debug|Win32
+		{830F40C5-5BC1-4A50-8697-D91A9858C82F}.Release|Win32.ActiveCfg = Release|Win32
+		{830F40C5-5BC1-4A50-8697-D91A9858C82F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

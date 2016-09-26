@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  GradesTest.cpp
+  RecordTest.cpp
+  Generating Code...
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+     Creating library C:\Users\Deepti\Desktop\TransmaxRequirementsTest\Release\DefaultTest.lib and object C:\Users\Deepti\Desktop\TransmaxRequirementsTest\Release\DefaultTest.exp
+  GradesDllTest.vcxproj -> C:\Users\Deepti\Desktop\TransmaxRequirementsTest\Release\DefaultTest.dll
+  GradesDllTest.vcxproj -> C:\Users\Deepti\Desktop\TransmaxRequirementsTest\Release\DefaultTest.pdb (Full PDB)
